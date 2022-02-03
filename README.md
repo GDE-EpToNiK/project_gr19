@@ -1,7 +1,2 @@
-# project_gr19
-
-Alpha & Omega:
-==============
-
-    Description:
-    ============
+# Alpha & Omega gr19 :
+======================
