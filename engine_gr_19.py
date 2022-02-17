@@ -1,6 +1,3 @@
-from locale import delocalize
-
-
 def my_function():
     """Description of the function
 
@@ -9,3 +6,5 @@ def my_function():
     specification: Hugo (v1 17/02/22)
     """
 
+
+def 
